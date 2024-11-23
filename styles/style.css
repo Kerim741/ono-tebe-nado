@@ -269,7 +269,7 @@
 .footer {
   display: flex;
   justify-content: space-between;
-  padding: 186px 50px 50px;
+  padding: 186px 50px 0 50px;
 }
 
 .footer__menu {
