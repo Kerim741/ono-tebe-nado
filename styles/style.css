@@ -120,7 +120,6 @@
 }
 
 .bet-button {
-  border: none;
   color: rgb(255, 255, 255);
   font-size: 22px;
   font-weight: 500;
@@ -287,7 +286,7 @@
 
 .footer__menu-link {
   font-size: 18px;
-  font-weight: 400; 
+  font-weight: 400;
   border-bottom: 1px solid #000;
   text-decoration: none;
 }
